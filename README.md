@@ -5,7 +5,7 @@
 
 ### 🛠 Основные инструменты
 
-`Python` `Pandas` `Matplotlib` `Seaborn` `SQL` `Jupyter Notebook` `Yandex Datalens`
+`Python` `Pandas` `Matplotlib` `Seaborn` `SQL` `Jupyter Notebook` `Yandex.Datalens`
 ---
 
 ### 📂 Проекты
