@@ -45,8 +45,8 @@
 
 ### 📫 Связь со мной
 
-*   **Email:** [m-sakovich@yandex.ru]
-*   **Telegram:** [@obni_masha]
-*   **Личный сайт/блог:** [ссылка, если есть]
+*   **Email:** m-sakovich@yandex.ru
+*   **Telegram:** [@obni_masha](https://t.me/obni_masha)
+* 
 
 
